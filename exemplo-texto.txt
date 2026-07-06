@@ -1,3 +1,4 @@
 Texto de exemplo para atividade.
 Texto para segundo commit.
 Texto para terceiro commit.
+Texto para teste de pull.
